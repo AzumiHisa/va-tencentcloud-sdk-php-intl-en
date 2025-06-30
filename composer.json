@@ -1,8 +1,8 @@
 {
-    "name": "tencentcloud/tencentcloud-sdk-php-intl-en",
+    "name": "azumihisa/va-tencentcloud-sdk-php-intl-en",
     "description": "TencentCloudApi php sdk",
     "type": "library",
-    "homepage": "https://github.com/TencentCloud/tencentcloud-sdk-php-intl-en",
+    "homepage": "https://github.com/AzumiHisa/va-tencentcloud-sdk-php-intl-en",
     "license": "Apache-2.0",
     "authors": [
         {
